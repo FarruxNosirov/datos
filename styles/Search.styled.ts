@@ -18,6 +18,6 @@ export const SearchInput = styled.input`
   line-height: normal;
   width: 80%;
   height: 30px;
-  border: 0;
+  border: none;
   outline: none;
 `;
